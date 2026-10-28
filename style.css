@@ -8,27 +8,27 @@ img{
     width: 250px;
 }
 header {
-    background-color: #222;
-    color: white;
+    background-color: black;
+    color: red;
     text-align: center;
     padding: 5px;
 }
 
 header h1 {
-    margin: 0px;
+    margin: 10px;
 }
 nav {
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 nav a {
-    color: white;
+    color:black;
     text-decoration:dotted;
-    margin: 10px;
+    margin: 1px;
 }
 
 nav a:hover {
-    color: skyblue;
+    color: black;
 }
 section {
     background-color: white;
